@@ -11,5 +11,11 @@ Quick cheatsheet:
 #### H4
 ##### H5
 ###### H6
+
+[inline-style link](https://www.google.com)
+
+Bold with **asterisks**
+
+Italics with *asterisks*
 ```
 
